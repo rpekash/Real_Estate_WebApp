@@ -1,5 +1,3 @@
-import Header from './Header.jsx'
-import Footer from './Footer.jsx'
 import Login from './Login.jsx'
 import Signup from './Signup.jsx';
 import Home from './Home.jsx';
