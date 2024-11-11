@@ -5,8 +5,6 @@ import Signup from './Signup.jsx';
 import Home from './Home.jsx';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-
-
 function App() {
   return (
     <BrowserRouter>
