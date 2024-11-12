@@ -82,7 +82,6 @@ function Login() {
           <button type='submit' className='btn btn-success w-100 mb-2'>
             <strong>Log in</strong>
           </button>
-          <p className='text-center'>You agree to our terms and policies</p>
           <Link to="/signup" className='btn btn-outline-secondary w-100 text-decoration-none'>
             Create Account
           </Link>
